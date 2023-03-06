@@ -7,3 +7,10 @@
  ## Task
  - To achieve this goal, I am looking closely look at the documented consumption and emissions data of non-housing buildings in the City of Seattle to predict the CO2 emissions and total energy consumption of non-residential buildings that have not yet been measured.
  - I will also evaluate and integrate the value of the "ENERGY STAR Score" for emissions prediction, which is tedious to calculate with the approach currently used. 
+ 
+## Tools and competencies
+ - Supervise regression models
+ - Hyperparameter optimization
+ - Performance metrics
+ - Model interpretation - SHAP
+ 
